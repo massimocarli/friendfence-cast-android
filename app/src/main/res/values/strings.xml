@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FrienceFenceCast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Media Router -->
+    <string name="media_route_menu_title">Settings</string>
+
+    <!-- Channel -->
+    <string name="channel_send_message_success">Message successfully sent!</string>
+    <string name="channel_send_message_error">Error sending message</string>
+    <string name="channel_send_message_button">Send message</string>
+    <string name="channel_empty_message">Message cannot be empty!</string>
+    <string name="channel_play_button">Play</string>
+    <string name="channel_pause_button">Pause</string>
+    <string name="channel_paused_success">Message paused sent!</string>
+    <string name="channel_paused_error">Error sending paused message</string>
+
+</resources>
